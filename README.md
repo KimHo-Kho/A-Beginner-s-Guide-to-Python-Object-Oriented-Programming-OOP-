@@ -17,4 +17,7 @@ Object-Oriented Programming (OOP) is a programming paradigm in which we can thin
   
 Object-Oriented programming allows you to reuse code by implementing abstraction. This principle makes your code more concise and legible.
   
-  
+1. Abstraction
+2. Inheritance
+3. Polymorphism - Polymorphism lets us slightly modify methods and attributes of the subclasses previously defined in the superclass.
+4. Encapsulation  - Encapsulation is the process in which we protect the internal integrity of data in a class.
