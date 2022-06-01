@@ -12,3 +12,9 @@ Arguments: Objects passed to a function. For instance: sum([1, 2, 4])
 Run a Python script: Open a terminal or command line and type “python <name of the file>.”
 Open a Python Shell: Open a terminal and type python or python3 depending on your system.
   
+What Is Object-Oriented Programming in Python?
+Object-Oriented Programming (OOP) is a programming paradigm in which we can think about complex problems as objects.
+  
+Object-Oriented programming allows you to reuse code by implementing abstraction. This principle makes your code more concise and legible.
+  
+  
